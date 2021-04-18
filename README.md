@@ -1,1 +1,2 @@
 # paddlehub_textclassification
+本项目使用paddlehub预训练模型ernie实现文本分类任务。
